@@ -4,7 +4,7 @@
   "description": "mock server for e-commerce with micro frontends",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 4000 --routes routes.json"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
